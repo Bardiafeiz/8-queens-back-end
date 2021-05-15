@@ -1,1 +1,1 @@
-web: gunicorn puzzle8.wsgi:application --log-file -
+web: gunicorn puzzle8.wsgi
